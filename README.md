@@ -6,6 +6,10 @@
 
 This project is a simple calculator built using React.js. It supports basic arithmetic operations such as addition, subtraction, multiplication, division and percentage. The calculator UI is styled using Tailwind CSS.
 
+## Live Demo
+
+Check out the live demo [here](https://react-calculator-ten-blue.vercel.app/).
+
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division and percentage.
